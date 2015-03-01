@@ -1,0 +1,14 @@
+{
+    "gold": [
+        { "name" : "RBC"}
+    ],
+    "bronze": [
+        { "name" : "Ubisoft"},
+        { "name" : "Digital Ocean"}
+    ],
+    "universities": [
+        { "name" : "University of Toronto"},
+        { "name" : "McMaster"},
+        { "name" : "University of Waterloo"}
+    ]
+}

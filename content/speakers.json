@@ -1,0 +1,22 @@
+{
+    "keynote": [
+        { 
+            "name" : "Farhan Thawar",
+            "title" : "VP Engineering Canada, Pivotal Labs"
+        },
+        { 
+            "name" : "Bruce Ross",
+            "title" : "VP of Tech and Ops, RBC"
+        }
+    ],
+    "breakout": [
+        { 
+            "name" : "Damien Stee",
+            "title" : "Director, Omers"
+        },
+        { 
+            "name" : "Martin Laforest",
+            "title" : "Director of Scientific Outreach, Institute of Quantum Computing (IQC)"
+        }
+    ]
+}

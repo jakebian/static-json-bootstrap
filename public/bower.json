@@ -1,0 +1,18 @@
+{
+  "name": "cutc-hom-public",
+  "version": "0.0.0",
+  "authors": [
+    "Jake Bian <jake@thousandeyes.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2"
+  }
+}
