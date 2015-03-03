@@ -1,5 +1,50 @@
-body {
-  padding: 0px;
+.full-section {
+  height: 100%;
+}
+
+.welcome-section {
+  text-align: center;
+  background-image: url(../img/splash_bg.jpeg);
+  background-attachment: fixed;
+  background-position: 50% 10%;
+  color: #fff;
+}
+.welcome-section .welcome-logo {
+  position: absolute;
+  bottom: 35%;
+  left: 50%;
+  margin-left: -200px;
+}
+.welcome-section .welcome-logo h1 {
+  font-weight: 900;
+  font-size: 10em;
+}
+.welcome-section .welcome-info {
+  position: absolute;
+  bottom: 80px;
+  left: 50%;
+  margin-left: -120px;
+  font-weight: 500;
+  font-size: 1.5em;
+}
+.welcome-section .welcome-info .theme {
+  margin-right: 50px;
+  letter-spacing: .5em;
+  font-weight: 100;
+}
+.welcome-section .social-media {
+  position: absolute;
+  right: 40px;
+  top: 40px;
+  font-size: 3em;
+}
+.welcome-section .social-media a {
+  padding: 15px;
+  color: #fff;
+  opacity: 0.5;
+}
+.welcome-section .social-media a:hover {
+  opacity: 1;
 }
 
 /*# sourceMappingURL=style.css.map */

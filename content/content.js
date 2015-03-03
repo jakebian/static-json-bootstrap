@@ -3,4 +3,5 @@ module.exports = {
     speakers: require('./speakers.json'),
     dates: require('./dates.json'),
     location: require('./location.json'),
+    socialUrls: require('./social-urls.json')
 }
