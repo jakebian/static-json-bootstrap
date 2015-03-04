@@ -1,4 +1,5 @@
-h2 Keynote speakers
-
-each speaker in content.speakers.keynote
-    include speaker
+div.keynote-section(class="row speaker-section")
+    h2.section-title Keynote speakers
+    each speaker in content.speakers.keynote
+        div.col-sm-4
+            include speaker

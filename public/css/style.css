@@ -2,6 +2,18 @@
   height: 100%;
 }
 
+body {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+.section-title {
+  text-align: center;
+  font-weight: 100;
+  margin: 40px 0;
+  font-size: 1.7em;
+}
+
 .welcome-section {
   text-align: center;
   background-image: url(../img/splash_bg.jpeg);
@@ -45,6 +57,34 @@
 }
 .welcome-section .social-media a:hover {
   opacity: 1;
+}
+
+.speaker-block {
+  text-align: center;
+}
+.speaker-block .speaker-picture {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  background-color: #aaa;
+  margin: 20px auto;
+}
+.speaker-block .speaker-name {
+  font-size: 1.2em;
+  font-weight: 500;
+}
+.speaker-block .speaker-title {
+  margin-top: 15px;
+}
+
+.breakout-section {
+  background-color: #222;
+  color: #fff;
+}
+
+.speaker-section {
+  padding: 40px 0;
+  padding-bottom: 80px;
 }
 
 /*# sourceMappingURL=style.css.map */

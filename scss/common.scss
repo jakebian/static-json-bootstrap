@@ -1,3 +1,15 @@
 .full-section {
     height: 100%;
 }
+
+body {
+    width:100%;
+    overflow-x: hidden;
+}
+
+.section-title {
+    text-align: center;
+    font-weight: 100;
+    margin: 40px 0;
+    font-size: 1.7em;
+}

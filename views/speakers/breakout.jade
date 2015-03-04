@@ -1,4 +1,5 @@
-h2 Breakout session speakers
-
-each speaker in content.speakers.breakout
-    include speaker
+div.breakout-section(class="row speaker-section")
+    h2.section-title Breakout session speakers
+    each speaker in content.speakers.breakout
+            div.col-sm-4
+                include speaker
