@@ -5,6 +5,7 @@
 body {
   width: 100%;
   overflow-x: hidden;
+  background-color: #122;
 }
 
 .section-title {
@@ -14,12 +15,54 @@ body {
   font-size: 1.7em;
 }
 
+.side-menu {
+  padding: 0;
+  overflow: hidden;
+}
+.side-menu .menu-content {
+  position: fixed;
+  top: 0;
+  color: #fff;
+  text-align: center;
+  left: 0;
+  width: 8%;
+}
+.side-menu .menu-content a.menu-item {
+  display: block;
+  padding: 20px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+  font-weight: 100;
+  font-size: 0.9em;
+  letter-spacing: .2em;
+  color: #aaa;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.side-menu .menu-content a.menu-item:hover {
+  text-decoration: none;
+  color: #fff;
+}
+.side-menu .menu-content a.menu-item .icon {
+  font-size: 2em;
+  display: block;
+}
+
+.main-content {
+  padding: 0;
+  background-color: #fff;
+  overflow: hidden;
+}
+
 .welcome-section {
   text-align: center;
   background-image: url(../img/splash_bg.jpeg);
   background-attachment: absolute;
   background-position: 50% 10%;
   color: #fff;
+  position: relative;
   -webkit-transition: all 2s ease-in-out;
   -moz-transition: all 2s ease-in-out;
   -ms-transition: all 2s ease-in-out;

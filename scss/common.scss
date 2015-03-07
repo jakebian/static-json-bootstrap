@@ -5,6 +5,7 @@
 body {
     width:100%;
     overflow-x: hidden;
+    background-color: #122;
 }
 
 .section-title {
@@ -12,4 +13,44 @@ body {
     font-weight: 100;
     margin: 40px 0;
     font-size: 1.7em;
+}
+
+.side-menu {
+    padding: 0;
+    overflow: hidden;
+    .menu-content {
+        position: fixed;
+        top: 0;
+        color: #fff;
+        text-align: center;
+        left: 0;
+        width: 8%;
+
+        a.menu-item {
+            display: block;
+            padding: 20px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+            font-weight: 100;
+            font-size: 0.9em;
+            letter-spacing: .2em;
+            color: #aaa;
+            @include transition(all, .3s, ease-in-out);
+
+            &:hover {
+                text-decoration: none;
+                color:#fff;
+            }
+
+            .icon {
+                font-size: 2em;
+                display: block;
+            }
+        }
+    }
+}
+
+.main-content {
+    padding: 0;
+    background-color: #fff;
+    overflow: hidden;
 }

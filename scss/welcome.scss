@@ -4,7 +4,9 @@
     background-attachment: absolute;
     background-position: 50% 10%;
     color: #fff;
+    position: relative;
     @include transition(all, 2s, ease-in-out);
+
     &:hover {
         background-position: 50% 20%;
     }

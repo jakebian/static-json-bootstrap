@@ -3,9 +3,14 @@ html
         include head/head
         title CUTC 15
     body
-        include welcome
-        include info/section
-        include speakers/section
-        include sponsors/section
+        div.row
+            div.side-menu(class="col-sm-1")
+                include menu
+
+            div.main-content(class="col-sm-11")
+                include welcome
+                include info/section
+                include speakers/section
+                include sponsors/section
         //- include ambassadors
         //- include blog
