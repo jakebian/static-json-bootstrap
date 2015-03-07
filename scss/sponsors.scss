@@ -1,0 +1,21 @@
+.sponsors-list {
+    text-align: center;
+
+    .sponsor-logo {
+        margin: 20px;
+        opacity: 0.5;
+    }
+
+    .sponsor-logo:hover {
+        opacity: 1;
+    }
+
+    .sponsors-level-label {
+        opacity: 0.5;
+        text-transform: uppercase;
+        font-size: 1.5em;
+        font-weight: 200;
+        padding-top: 40px;
+        margin-bottom: 20px;
+    }
+}

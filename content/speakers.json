@@ -7,9 +7,6 @@
         { 
             "name" : "Bruce Ross",
             "title" : "VP of Tech and Ops, RBC"
-        },
-        {
-            "name": "more to come"
         }
     ],
     "breakout": [
@@ -20,9 +17,6 @@
         { 
             "name" : "Martin Laforest",
             "title" : "Director of Scientific Outreach, Institute of Quantum Computing (IQC)"
-        },
-        {
-            "name": "more to come"
         }
     ]
 }
