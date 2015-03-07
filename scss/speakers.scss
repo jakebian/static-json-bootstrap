@@ -1,12 +1,17 @@
 .speaker-block {
     text-align: center;
+
     .speaker-picture {
         width: 200px;
         height: 200px;
-        border-radius: 200px;
-        background-color: #aaa;
+        border-radius: 300px;
         margin: 20px auto;
         overflow: hidden;
+        @include transition(all, .1s, ease-in-out);
+
+        &:hover {
+            opacity: 0.9;
+        }
     }
     .speaker-name {
         font-size: 1.2em;

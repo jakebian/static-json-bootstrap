@@ -2,12 +2,13 @@
     text-align: center;
 
     .sponsor-logo {
+        @include transition(all, .3s, ease-in-out);
         margin: 20px;
         opacity: 0.5;
-    }
 
-    .sponsor-logo:hover {
-        opacity: 1;
+        &:hover {
+            opacity: 1;
+        }
     }
 
     .sponsors-level-label {

@@ -1,0 +1,14 @@
+[
+    {
+        "name": "students",
+        "url" : "/"
+    },
+    {
+        "name": "sponsors",
+        "url": "http://google.com"
+    },
+    {
+        "name": "speakers",
+        "url": "http://google.com"
+    }
+]
