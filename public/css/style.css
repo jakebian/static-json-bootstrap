@@ -157,7 +157,8 @@ body {
   -ms-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  margin: 20px;
+  margin: 40px;
+  display: inline-block;
   opacity: 0.5;
 }
 .sponsors-list .sponsor-logo:hover {

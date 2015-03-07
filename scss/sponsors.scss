@@ -3,7 +3,8 @@
 
     .sponsor-logo {
         @include transition(all, .3s, ease-in-out);
-        margin: 20px;
+        margin: 40px;
+        display: inline-block;
         opacity: 0.5;
 
         &:hover {
