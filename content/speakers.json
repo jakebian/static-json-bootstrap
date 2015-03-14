@@ -11,12 +11,20 @@
     ],
     "breakout": [
         { 
-            "name" : "Damien Stee",
+            "name" : "Damien Steel",
             "title" : "Director, Omers"
         },
         { 
             "name" : "Martin Laforest",
             "title" : "Director of Scientific Outreach, Institute of Quantum Computing (IQC)"
+        },
+        { 
+            "name" : "Dinah Davis",
+            "title" : "Senior Developement Manager, Desire2Learn"
+        },
+        { 
+            "name" : "Chantal Jandard",
+            "title" : "UX Designer, Desire2Learn"
         }
     ]
 }
