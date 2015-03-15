@@ -10,5 +10,9 @@
     {
         "name": "speakers",
         "url": "files/speakers_package.pdf"
+    },
+    {
+        "name": "sponsors",
+        "url": "files/sponsorship_package.pdf"
     }
 ]
