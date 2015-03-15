@@ -7,6 +7,9 @@
         border-radius: 300px;
         margin: 20px auto;
         overflow: hidden;
+        img {
+            pointer-events: none;
+        }
         @include transition(all, .1s, ease-in-out);
 
         &:hover {

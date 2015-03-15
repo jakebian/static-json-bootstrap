@@ -3,9 +3,10 @@
 }
 
 .info-panel {
+    display: block;
     height: 300px;
     text-align: center;
-    color: #fff;
+    color: #fff!important;
     position: relative;
     @include transition(all, .3s, ease-in-out);
     background-color: #000;
