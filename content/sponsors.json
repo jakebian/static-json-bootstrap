@@ -5,6 +5,12 @@
             "name" : "RBC"
         }
     ],
+    "silver": [
+        {
+            "id" : "iqc",
+            "name" : "IQC"
+        }
+    ],
     "bronze": [
         {
             "id" : "ubisoft",
