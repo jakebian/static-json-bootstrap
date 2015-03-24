@@ -1,12 +1,12 @@
 {
     "keynote": [
-        { 
-            "name" : "Farhan Thawar",
-            "title" : "VP Engineering Canada, Pivotal Labs"
-        },
+        
         { 
             "name" : "Bruce Ross",
             "title" : "VP of Tech and Ops, RBC"
+        },
+        { 
+            "name" : "Andrew D’Souza",
         }
     ],
     "breakout": [
@@ -29,7 +29,16 @@
         {
             "name": "Michael Katchen",
             "title": "CEO, WealthSimple"
+        },
+        {
+            "name": "Jeffrey Tong",
+            "title": "Founder, HearthStats"
         }
-
+    ],
+    "workshop":[
+        {   
+            "name" : "Eva Chan",
+            "title" : "Director, Omers"
+        }
     ]
 }
