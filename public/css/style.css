@@ -76,8 +76,13 @@ body {
   position: absolute;
   bottom: 35%;
   left: 50%;
-  margin-left: -200px;
+  margin-left: -220px;
   pointer-events: none;
+  max-width: 80%;
+}
+.welcome-section .welcome-logo img {
+  margin-left: 10%;
+  width: 100%;
 }
 .welcome-section .welcome-info {
   position: absolute;
@@ -123,6 +128,7 @@ body {
   transition: all 0.1s ease-in-out;
 }
 .speaker-block .speaker-picture img {
+  max-width: 100%;
   pointer-events: none;
 }
 .speaker-block .speaker-picture:hover {
@@ -152,6 +158,8 @@ body {
   text-align: center;
 }
 .sponsors-list .sponsor-logo {
+  max-width: 200px;
+  overflow: hidden;
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
@@ -160,6 +168,9 @@ body {
   margin: 40px;
   display: inline-block;
   opacity: 0.5;
+}
+.sponsors-list .sponsor-logo img {
+  max-width: 100%;
 }
 .sponsors-list .sponsor-logo:hover {
   opacity: 1;
@@ -212,6 +223,51 @@ body {
 }
 .info-blurb b {
   font-weight: 400;
+}
+
+.footer-section {
+  text-align: center;
+  background-attachment: absolute;
+  color: #fff;
+  position: relative;
+  padding-top: 18%;
+  background-color: #000;
+}
+.footer-section div {
+  position: relative;
+}
+.footer-section .footer-bg {
+  opacity: 0.3;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  background-image: url(../img/backgrounds/footer.jpg);
+  left: 0;
+  top: 0;
+}
+.footer-section .footer-title {
+  font-size: 5em;
+  font-weight: lighter;
+}
+.footer-section .footer-title span {
+  padding-bottom: 40px;
+  border-bottom: 1px solid #fff;
+}
+.footer-section .footer-input {
+  margin-top: 60px;
+}
+.footer-section .footer-input input {
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  border: 0 !important;
+  max-width: 400px;
+  margin: auto;
+}
+.footer-section .footer-info {
+  opacity: 0.5;
+  margin-top: 50px;
+  font-weight: lighter;
+  font-size: 1.5em;
 }
 
 /*# sourceMappingURL=style.css.map */

@@ -8,6 +8,7 @@
         margin: 20px auto;
         overflow: hidden;
         img {
+            max-width:100%;
             pointer-events: none;
         }
         @include transition(all, .1s, ease-in-out);
