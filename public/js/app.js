@@ -1,2 +1,6 @@
-console.log('app.js loaded');
 new WOW().init();
+$(document).ready(InitializeScrollit)
+
+function InitializeScrollit() {
+    $.scrollIt();
+}
