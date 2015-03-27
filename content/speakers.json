@@ -1,28 +1,24 @@
 {
     "keynote": [
-        
-        { 
+
+        {
             "name" : "Bruce Ross",
             "title" : "VP of Tech and Ops, RBC"
         },
-        { 
-            "name" : "Andrew D’Souza",
+        {
+            "name" : "Andrew D’Souza"
         }
     ],
     "breakout": [
-        { 
+        {
             "name" : "Damien Steel",
             "title" : "Director, Omers"
         },
-        { 
-            "name" : "Martin Laforest",
-            "title" : "Director of Scientific Outreach, Institute of Quantum Computing (IQC)"
-        },
-        { 
+        {
             "name" : "Dinah Davis",
             "title" : "Senior Developement Manager, Desire2Learn"
         },
-        { 
+        {
             "name" : "Chantal Jandard",
             "title" : "UX Designer, Desire2Learn"
         },
@@ -36,7 +32,7 @@
         }
     ],
     "workshop":[
-        {   
+        {
             "name" : "Eva Chan",
             "title" : "Director, Omers"
         }

@@ -14,9 +14,14 @@
         position: absolute;
         bottom: 35%;
         left: 50%;
-        margin-left: -200px;
+        margin-left: -220px;
 
         pointer-events: none;
+        max-width: 80%;
+        img {
+            margin-left: 10%;
+            width: 100%;
+        }
     }
 
     .welcome-info {

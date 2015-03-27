@@ -2,6 +2,12 @@
     text-align: center;
 
     .sponsor-logo {
+        max-width:200px;
+        overflow: hidden;
+        img {
+            max-width: 100%;
+        }
+
         @include transition(all, .3s, ease-in-out);
         margin: 40px;
         display: inline-block;

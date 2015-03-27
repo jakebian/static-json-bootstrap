@@ -1,6 +1,6 @@
 {
     "gold": [
-        { 
+        {
             "id" : "rbc",
             "name" : "RBC"
         }
@@ -14,22 +14,23 @@
     "bronze": [
         {
             "id" : "ubisoft",
-            "name" : "Ubisoft"},
-        {   
+            "name" : "Ubisoft"
+        },
+        {
             "id" : "digitalocean",
             "name" : "Digital Ocean"
         }
     ],
     "universities": [
-        { 
+        {
             "id" : "uoft",
             "name" : "University of Toronto"
         },
-        { 
+        {
             "id" : "mac",
             "name" : "McMaster"
         },
-        { 
+        {
             "id" : "uw",
             "name" : "University of Waterloo"
         }
