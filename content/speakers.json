@@ -3,7 +3,8 @@
 
         {
             "name" : "Bruce Ross",
-            "title" : "VP of Tech and Ops, RBC"
+            "title" : "Group Head, Technology & Operations, RBC"
+            "bio"   : "As Group Head, Technology & Operations, RBC, Bruce Ross is responsible for the strategy and overall management of global technology and operations for RBC, which  includes applications development, infrastructure and enterprise operations. In addition, as a member of Group Executive, he is one of eight executives responsible for setting the overall strategic direction of RBC.Bruce is a seasoned executive with more than 28 years of technology and business experience. Prior to joining RBC, he was the General Manager, Global Technology Services, North America at IBM. He was a member of IBM's Performance Team setting the operational direction of the corporation. He was also a member of IBM's Strategy Team which set the long term direction for the business including its investments in emerging markets, Cloud, and Analytics. His prior roles included General Manager, Global Technology Services, Europe for IBM, General Manager and President, IBM Canada, General Manager, Global Technology Services UK, Ireland, and South Africa. Bruce's areas of responsibility have included providing thought leadership and services to financial institutions globally.Bruce is active in a number of business and community organizations in Canada. He currently serves as a member of the International Board of Advisors for the University of Western Ontario. In recent years, he served as the Chair of the Ontario Brain Institute Liaison Council. He also sat on the Board of Directors of the Conference Board of Canada, was a member of the Canadian Council of Chief Executives, and was a Cabinet Member of the United Way Toronto Campaign Cabinet.Bruce is a professional engineer and a graduate of the University of Western Ontario. He is married with two children and lives in Toronto, Canada."
         },
         {
             "name" : "Andrew D’Souza"
@@ -29,6 +30,14 @@
         {
             "name": "Jeffrey Tong",
             "title": "Founder, HearthStats"
+        },
+        {
+            "name": "Kundan Joshi",
+            "title": "CEO, TheAppLabb"
+        },
+        {
+            "name": "Martin Laforest",
+            "title": "Outreach Director, IQC"
         }
     ],
     "workshop":[

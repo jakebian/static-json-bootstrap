@@ -5,6 +5,12 @@
             "name" : "RBC"
         }
     ],
+    "diamond":[
+        {
+            "id": "Mars"
+            "name": "Mars"
+        }
+    ],
     "silver": [
         {
             "id" : "iqc",
