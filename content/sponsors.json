@@ -1,14 +1,15 @@
 {
+    "diamond":[
+        {
+            "id": "mars",
+            "name": "Mars"
+        }
+    ],
+
     "gold": [
         {
             "id" : "rbc",
             "name" : "RBC"
-        }
-    ],
-    "diamond":[
-        {
-            "id": "Mars"
-            "name": "Mars"
         }
     ],
     "silver": [
