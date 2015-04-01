@@ -34,7 +34,7 @@
         },
         {
             "name": "Jeffrey Tong",
-            "title": "Founder, HearthStats"
+            "title": "Founder, HearthStats",
             "bio"   : ""
         },
         {
@@ -48,7 +48,7 @@
             "bio"   : "Martin is the Senior Manager at Scientific Outreach at the Institute for Quantum Computing at the University of Waterloo. The major part of his role is to bring science out of the lab and into people’s lives. He leads IQC’s strategic outreach programs including the Undergraduate School on Experimental Quantum Information Processing (USEQIP) and the Quantum Cryptography School for Young Students (QCSYS). He also leads the academic outreach for the collaborative graduate program in quantum information at the University of Waterloo. He is actively involved in industry and government relations at IQC bringing his scientific knowledge and experience to the discussions.Martin holds a PhD in quantum physics from the University of Waterloo, as well as an undergraduate degree in Mathematics and Physics at McGill University. He is a passionate advocate for communicating science and shares his passion with audiences around the world as a guest speaker and lecturer."
         },
         {
-            "name": "Dr. Carmine Filice"
+            "name": "Dr. Carmine Filice",
             "title": "Founder, The Performance Lab",
             "bio"   : "Dr. Carmine Filice D.C, CSCS, takes a sport science approach to its diagnostic. By using the latest sport science technology, including a 3D Motion Capture system and Force Plate technology, The Performance Lab helps anyone from the weekend warrior to the professional athlete to recover and perform at their very best. Dr. Carmine Filice assesses an injury not only from a Sports Therapist's view but also from the eyes of a Strength Coach, allowing a maximized route to recovery. Before opening the doors to The Performance Lab in 2008, Carmine spent time working alongside an extensive amount of high level and well-respected trainers, including The Peak Performance Project- a center in Santa Barbara, USA that focuses purely on training the elite athlete. Carmine has ample experience working with professional athletes such as World Champions, Olympians, and members of the MLB, AVP, NHL, UFC and MLS"
         },
@@ -67,7 +67,7 @@
     "workshop":[
         {
             "name" : "Eva Chan",
-            "title" : "Technology Innovation Lead, Exact Media"
+            "title" : "Technology Innovation Lead, Exact Media",
             "bio"   : "Eva works closely with Exact Media's retail partners to create meaningful loyalty experiences for their consumers through their sampling programs."
         }
     ]
