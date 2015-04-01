@@ -3,48 +3,65 @@
 
         {
             "name"  : "Bruce Ross",
-            "title" : "Group Head, Technology & Operations, RBC"
+            "title" : "Group Head, Technology & Operations, RBC",
             "bio"   : "As Group Head, Technology & Operations, RBC, Bruce Ross is responsible for the strategy and overall management of global technology and operations for RBC, which  includes applications development, infrastructure and enterprise operations. In addition, as a member of Group Executive, he is one of eight executives responsible for setting the overall strategic direction of RBC.Bruce is a seasoned executive with more than 28 years of technology and business experience. Prior to joining RBC, he was the General Manager, Global Technology Services, North America at IBM. He was a member of IBM's Performance Team setting the operational direction of the corporation. He was also a member of IBM's Strategy Team which set the long term direction for the business including its investments in emerging markets, Cloud, and Analytics. His prior roles included General Manager, Global Technology Services, Europe for IBM, General Manager and President, IBM Canada, General Manager, Global Technology Services UK, Ireland, and South Africa. Bruce's areas of responsibility have included providing thought leadership and services to financial institutions globally.Bruce is active in a number of business and community organizations in Canada. He currently serves as a member of the International Board of Advisors for the University of Western Ontario. In recent years, he served as the Chair of the Ontario Brain Institute Liaison Council. He also sat on the Board of Directors of the Conference Board of Canada, was a member of the Canadian Council of Chief Executives, and was a Cabinet Member of the United Way Toronto Campaign Cabinet.Bruce is a professional engineer and a graduate of the University of Western Ontario. He is married with two children and lives in Toronto, Canada."
         },
         {
-            "name" : "Andrew D’Souza"
+            "name" : "Andrew D’Souza",
             "bio"   : "As Bionym's ex-President, Andrew D'Souza lead all aspects of go-to-market, managing Bionym's external relationships with partners and investors. Before joining Bionym, he was the COO of Toronto-based Top Hat. Through his work, Andrew helped the company grow from 15 employees to 80, secured strategic partnerships with the world's largest education companies and recruited a world-class executive team that would oversee the company's next growth phase.Andrew's experience extends beyond business development into entrepreneurship and technology. Andrew has become a frequent contributor to renowned publications, including Techvibes, VentureBeat, Mashable and the Globe & Mail. His high-energy, multidisciplinary style is a valued asset to a rapidly growing startup in the fast-changing industry of wearable technology."
         }
     ],
     "breakout": [
         {
             "name"  : "Damien Steel",
-            "title" : "Director, Omers"
+            "title" : "Director, Omers",
             "bio"   : "In his role as Director at OMERS Ventures, Damien Steel is responsible for contributing to the identification and execution of investment opportunities in the Technology, Media and Telecommunications (TMT) sectors. Prior to joining OMERS Ventures, Damien was a Vice President with EdgeStone Capital Partners’ venture capital funds, with a focus on evaluating and managing early stage information technology investments. Damien has over 10 years of experience working with growth companies on all aspects of their business including finance, acquisitions, and overall growth strategies.Damien currently serves on the boards of Fusebill, LeadSift and PasswordBox. Damien also serves as a member of the Ontario Security Commission's Small and Medium Enterprise Committee and is a member of the Ontario Center of Excellence's CCR Commercialization Panel. Earlier in his career, he gained significant transactional experience while working in KPMG and RSM Richter's Corporate Finance groups.Damien has an H.B.B.A from Wilfrid Laurier University, is a CA and a CFA charter holder."
         },
         {
             "name" : "Dinah Davis",
-            "title" : "Senior Developement Manager, D2L"
+            "title" : "Senior Developement Manager, D2L",
             "bio"   : "Dinah loves technology, innovating and creating solutions that customers can't wait to use. She loves building teams, fostering an environment for innovation, and helping them improve their skills and achieve their full potential. Dinah completed her undergraduate degree in mathematics at the University of Lethbridge(2002) and master's in mathematics focused in cryptography at the University of Waterloo(2003). In 2004 Dinah joined BlackBerry(then Research in Motion) as a security software developer and after six years she was promoted to team lead of the BlackBerry Platform Security team where she led a team of eight people in four different locations. During her tenure at BlackBerry Dinah contributed to many patents. In late 2011 Dinah chose to leave BlackBerry to become a development manager at Trustwave, a global security company. There she lead of team of Java developers that developed the core security information and event management (SIEM) framework.Dinah joined  D2L (the Desire2Learn) in the fall of 2012 as a development manager with responsibility for the communication and collaboration tools within Brightspace, an integrated learning platform. In November of 2013 her focus changed to the Learning Outcomes problem space for K-12 and Higher Education institutions and she was given  an additional agile development team to lead. As a result of her ability to lead and grow these two teams she has recently been promoted to Senior Development Manager.Aside from her professional life, Dinah has taken an active role in empowering girls to choose a career in STEM and women in technology to become leaders. She manages the social media presence for the Kitchener, Waterloo, Guelph, and Cambridge chapter of theCanadian Association of Girls in Science (CAGIS). She is a champion for the Women In Tech communitech peer2peer group, is a mentor for the communitech Women in Tech Mentorship program, and an active member of the community to bring awareness to this important cause. "
         },
         {
             "name" : "Chantal Jandard",
-            "title" : "UX Designer, D2L"
+            "title" : "UX Designer, D2L",
             "bio"   : "Chantal is a designer with a passion for meaningful technology that elicits change.Her focus is user experience: not just what happens during a product’s use, but what comes before and most importantly, what comes after.She grew up on hand-crafts and doodles, diving into front-end development during my elementary years and following all that up with a Bachelors of Psychology from uWaterloo, gaining experience in experimental design, statistical analysis and the human mind. She works with D2L to improve technology in the classroom and takes on freelance projects like app design with start-ups such as Eyecheck and Brizi. Chantal also co-founded Brew Over Design, a design meet-up. In her spare time, she writes on life, design and education, eat books for breakfast."
         },
         {
             "name": "Michael Katchen",
-            "title": "CEO, WealthSimple"
+            "title": "CEO, WealthSimple",
             "bio"   : "Michael is an entrepreneur with a passion for investing. Previously, he led marketing at 1000memories, a Silicon Valley-based startup that was acquired in 2012. He returned to Toronto in 2014 to work alongside the best minds in the investment industry to launch Wealthsimple. He won his first investment challenge at 12 years old and consulted for financial institutions with McKinsey & Company when he graduated university. He was recently listed as an 'Industry Mover' by the Financial Post and one of the 500 people that will define the next 12 months by Askmen."
         },
         {
             "name": "Jeffrey Tong",
             "title": "Founder, HearthStats"
+            "bio"   : ""
         },
         {
             "name": "Kundan Joshi",
-            "title": "CEO, TheAppLabb"
+            "title": "CEO, TheAppLabb",
             "bio":  "Kundan believes in empowering YOU. He translates his belief into action by his commitment to helping businesses, his community and the youth at large. He is the Founder and CEO of TheAppLabb. TheAppLabb, is a Toronto-based Technology company, focused on Strategy, Design & Development of Mobile & Web Apps. TheAppLabb has served clients like Electrolux, Frigidaire, Canadian International AutoShow, TIFF, Rogers, Parmalat, Unilever, among others.He has empowered the Indo-Canadian community through his leadership at the Indo Canada Chamber of Commerce (ICCC). He has served positions such as Director - Young Professionals, VP - Finance & Administration, VP - Events & Programs and VP, Corporate Secretary. Under his leadership, the ICCC Young Professionals committee has been reaching new heights. He has also been instrumental in setting up the new immigrants committee and mentoring program for ICCC.He is also working towards elevating the Indo-Canadian cultural profile as a partner at Black Diamond Entertainments that promotes, organizes, hosts and sponsors numerous cultural shows, supporting local and global talent. Just to name a few events: Sunidhi Chauhan concert; Mahautsav; Shibani Kashyap concert; IFFI; Ila Arun concert; IFFT2011 and 2012, Strings Concert, IFFT 2012 & Alka Yagnik in Concert.His contributions to the Young Professionals committee resulted in being recognized with the ICCC 'Member of the Year' Award by the Right Honorable Prime Minister Stephen Harper. Kundan has also been honored with the 'South Asian Youth of the Year Award' at the Midweek South Asian Awards 2010. Other community events that he has organised include South Asian Heritage Festival and Hindu Youth Conference. He has been invited as a keynote speaker at various events such as ABC Youth Conference, Queens University Business Forum, among others."
         },
         {
             "name": "Martin Laforest",
-            "title": "Outreach Director, IQC"
+            "title": "Outreach Director, IQC",
             "bio"   : "Martin is the Senior Manager at Scientific Outreach at the Institute for Quantum Computing at the University of Waterloo. The major part of his role is to bring science out of the lab and into people’s lives. He leads IQC’s strategic outreach programs including the Undergraduate School on Experimental Quantum Information Processing (USEQIP) and the Quantum Cryptography School for Young Students (QCSYS). He also leads the academic outreach for the collaborative graduate program in quantum information at the University of Waterloo. He is actively involved in industry and government relations at IQC bringing his scientific knowledge and experience to the discussions.Martin holds a PhD in quantum physics from the University of Waterloo, as well as an undergraduate degree in Mathematics and Physics at McGill University. He is a passionate advocate for communicating science and shares his passion with audiences around the world as a guest speaker and lecturer."
+        },
+        {
+            "name": "Dr. Carmine Filice"
+            "title": "Founder, The Performance Lab",
+            "bio"   : "Dr. Carmine Filice D.C, CSCS, takes a sport science approach to its diagnostic. By using the latest sport science technology, including a 3D Motion Capture system and Force Plate technology, The Performance Lab helps anyone from the weekend warrior to the professional athlete to recover and perform at their very best. Dr. Carmine Filice assesses an injury not only from a Sports Therapist's view but also from the eyes of a Strength Coach, allowing a maximized route to recovery. Before opening the doors to The Performance Lab in 2008, Carmine spent time working alongside an extensive amount of high level and well-respected trainers, including The Peak Performance Project- a center in Santa Barbara, USA that focuses purely on training the elite athlete. Carmine has ample experience working with professional athletes such as World Champions, Olympians, and members of the MLB, AVP, NHL, UFC and MLS"
+        },
+        {
+            "name": "Christopher Charlesworth",
+            "title": "Co-Founder, HiveWire",
+            "bio"   : "Christopher holds an MBA from the Joseph L. Rotman School of Management, The University of Toronto, and an Honours Bachelor of Political Science from The University of Western Ontario. Christopher has worked as a management consultant in Indonesia, Canada, and the United States across several practice areas, including financial services, marketing, and social media. As Co-founder and CEO Christopher works to create value for clients by applying HiveWire’s crowdfunding tools and techniques to their strategic objectives."
+        },
+        {
+            "name": "Jay Primeau",
+            "title": "Director of Development, OANDA",
+            "bio": "Jason joined OANDA as a software developer in 2000, and helped launch their groundbreaking fxTrade forex trading platform. Jason is now responsible for the design and development of all of OANDA's trading and risk management software, user interfaces, and web technology. He is passionate about building teams, and identifying leadership potential in other developers and helping them excel in their roles.He is responsible for aligning the overall business and strategic goals of the company with the most current trends in technology and development."
+
         }
     ],
     "workshop":[
