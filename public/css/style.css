@@ -112,6 +112,26 @@ body {
   opacity: 1;
 }
 
+.tickets-button {
+  padding: 50px;
+}
+.tickets-button .btn {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  color: #fff;
+  padding: 20px;
+  border-radius: 3px;
+  font-size: 1.3em;
+  font-weight: lighter;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.tickets-button .btn:hover {
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
 .speaker-block {
   text-align: center;
 }

@@ -55,4 +55,22 @@
             }
         }
     }
+
+
+}
+
+.tickets-button {
+    .btn {
+        @include transition(all, .2s, ease-in-out);
+        color: #fff;
+        padding: 20px;
+        border-radius: 3px;
+        font-size: 1.3em;
+        font-weight: lighter;
+        background-color: rgba(0, 0, 0, 0.5);
+        &:hover {
+            background-color: rgba(0, 0, 0, 0.1);
+        }
+    }
+    padding: 50px
 }
