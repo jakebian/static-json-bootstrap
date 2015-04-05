@@ -88,7 +88,7 @@ body {
   position: absolute;
   bottom: 80px;
   left: 50%;
-  margin-left: -120px;
+  margin-left: -280px;
   font-weight: 500;
   font-size: 1.5em;
 }
@@ -96,6 +96,13 @@ body {
   margin-right: 50px;
   letter-spacing: .5em;
   font-weight: 100;
+}
+.welcome-section .welcome-info .location {
+  margin-top: 20px;
+  font-weight: 100;
+  letter-spacing: .5em;
+  font-size: .8em;
+  opacity: 0.5;
 }
 .welcome-section .social-media {
   position: absolute;
