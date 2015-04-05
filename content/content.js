@@ -4,5 +4,6 @@ module.exports = {
     dates: require('./dates.json'),
     location: require('./location.json'),
     socialUrls: require('./social-urls.json'),
-    infoPanels: require('./info-panels.json')
+    infoPanels: require('./info-panels.json'),
+    faq: require('./faq.json')
 }
