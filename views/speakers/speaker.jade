@@ -1,6 +1,20 @@
-div.speaker-block(class="wow zoomIn")
-    div.speaker-picture
-        img(src="img/speakers/#{speaker.name.toLowerCase().split(' ')[0]}.jpg", alt="")
-    div.speaker-info
-        div.speaker-name #{speaker.name}
-        div.speaker-title #{speaker.title}
+div.speaker-block(ng-controller="speakersCtrl" class="wow zoomIn")
+
+    div(ng-click="openBio('#{speaker.name.toLowerCase().split(' ')[0]}')")
+
+        div.speaker-picture
+            img(src="img/speakers/#{speaker.name.toLowerCase().split(' ')[0]}.jpg", alt="")
+        div.speaker-info()
+            div.speaker-name #{speaker.name}
+            div.speaker-title #{speaker.title}
+
+        script(type="text/ng-template" id="templates/speaker/#{speaker.name.toLowerCase().split(' ')[0]}")
+            div.bio-modal(class="row")
+                div.bio-header(class="col-sm-12")
+                    div(class="col-sm-3")
+                        div.bio-img()
+                            img(src="img/speakers/#{speaker.name.toLowerCase().split(' ')[0]}.jpg", alt="")
+                    div.bio-heading(class="col-sm-9")
+                        b #{speaker.name}
+                        span #{speaker.title}
+                div.bio-body #{speaker.bio}

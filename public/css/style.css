@@ -149,7 +149,6 @@ body {
 }
 .speaker-block .speaker-picture img {
   max-width: 100%;
-  pointer-events: none;
 }
 .speaker-block .speaker-picture:hover {
   opacity: 0.9;
@@ -172,6 +171,49 @@ body {
 .speaker-section {
   padding: 40px 0;
   padding-bottom: 80px;
+}
+
+.bio-modal {
+  padding: 50px;
+  padding-top: 20px;
+}
+.bio-modal .bio-header {
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid #aaa;
+}
+.bio-modal .bio-header .bio-img {
+  width: 50px;
+  height: 50px;
+  margin: auto;
+  border-radius: 100px;
+  overflow: hidden;
+}
+.bio-modal .bio-header .bio-img img {
+  max-width: 100%;
+  height: auto;
+  width: auto;
+}
+.bio-modal .bio-header .bio-heading {
+  margin-top: 20px;
+}
+.bio-modal .bio-header .bio-heading b {
+  margin-right: 10px;
+}
+.bio-modal .bio-body {
+  font-size: 0.9em;
+  line-height: 1.8em;
+}
+
+.modal-backdrop {
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.modal-content {
+  border-radius: 3px;
 }
 
 .sponsors-list {

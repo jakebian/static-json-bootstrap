@@ -2,16 +2,14 @@ html
     head
         include head/head
         title CUTC 15
-    body
+    body(ng-app="cutc-home")
         div.row
             div.side-menu(class="col-sm-1")
-                include menu
+                include misc/menu
 
             div.main-content(class="col-sm-11")
-                include welcome
+                include misc/welcome
                 include info/section
                 include speakers/section
                 include sponsors/section
-                include footer
-        //- include ambassadors
-        //- include blog
+                include misc/footer
