@@ -34,6 +34,7 @@ body {
             font-size: 0.9em;
             letter-spacing: .2em;
             color: #aaa;
+            cursor: pointer;
             @include transition(all, .3s, ease-in-out);
 
             &:hover {
