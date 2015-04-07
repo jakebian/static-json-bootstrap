@@ -57,6 +57,54 @@ body {
   overflow: hidden;
 }
 
+.subs {
+  background-color: #000;
+  color: #fff;
+  padding: 100px 10px;
+  padding-bottom: 0;
+}
+.subs .subs-content {
+  max-width: 650px;
+  margin: auto;
+  line-height: 1.5em;
+}
+.subs .subs-content h1 {
+  font-size: 5em;
+  font-weight: 100;
+}
+.subs .subs-content .subs-row {
+  line-height: 1.5em;
+  margin: 10px 0;
+  opacity: 0.8;
+  font-size: 2em;
+  font-weight: lighter;
+}
+.subs .subs-content .subs-row .subs-desc {
+  opacity: 0.8;
+  font-size: 0.8em;
+}
+.subs .subs-process {
+  border-top: 1px solid #555;
+  padding: 50px 100px;
+  margin-top: 50px;
+}
+.subs .subs-process h3 {
+  font-weight: 100;
+  font-size: 2em;
+  text-align: center;
+  margin-bottom: 20px;
+  display: block;
+}
+.subs .subs-process .subs-step {
+  border-top: 1px solid #555;
+  padding: 20px 0;
+  margin: auto;
+  opacity: 0.8;
+  font-weight: lighter;
+  font-size: 1.2em;
+  max-width: 400px;
+}
+
 .welcome-section {
   text-align: center;
   background-image: url(../img/splash_bg.jpeg);
