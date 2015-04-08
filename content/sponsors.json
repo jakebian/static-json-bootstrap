@@ -26,6 +26,14 @@
         {
             "id" : "digitalocean",
             "name" : "Digital Ocean"
+        },
+        {
+            "id" : "namecheap",
+            "name" : "Namecheap"
+        },
+        {
+            "id" : "lighthouselabs",
+            "name" : "Lighthouse labs"
         }
     ],
     "universities": [
