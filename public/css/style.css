@@ -105,6 +105,36 @@ body {
   max-width: 400px;
 }
 
+.event-day {
+  padding: 20px 10%;
+}
+.event-day h3 {
+  font-size: 4em;
+  font-weight: lighter;
+  padding: 20px 10px;
+}
+.event-day .event {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+.event-day .event .name {
+  font-size: 1.5em;
+}
+.event-day .event .time {
+  opacity: 0.5;
+}
+.event-day .event.transition {
+  opacity: 0.5;
+}
+
+.schedule {
+  background-image: url(../img/backgrounds/schedule-bg.jpg);
+  background-color: #222;
+  color: #fff;
+  padding-top: 50px;
+  padding-bottom: 80px;
+}
+
 .welcome-section {
   text-align: center;
   background-image: url(../img/splash_bg.jpeg);
