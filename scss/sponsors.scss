@@ -4,6 +4,11 @@
     .sponsor-logo {
         max-width:200px;
         overflow: hidden;
+
+        &.sponsor-bronze {
+            max-width: 200px;
+        }
+
         img {
             max-width: 100%;
         }
