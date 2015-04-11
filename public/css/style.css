@@ -287,6 +287,9 @@ body {
   display: inline-block;
   opacity: 0.5;
 }
+.sponsors-list .sponsor-logo.sponsor-bronze {
+  max-width: 200px;
+}
 .sponsors-list .sponsor-logo img {
   max-width: 100%;
 }
