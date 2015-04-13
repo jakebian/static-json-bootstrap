@@ -108,3 +108,32 @@ body {
         }
     }
 }
+
+.event-day {
+    padding: 20px 10%;
+    h3 {
+        font-size: 4em;
+        font-weight: lighter;
+        padding: 20px 10px;
+    }
+    .event {
+        padding: 10px;
+        border-bottom: 1px solid #eee;
+        .name {
+            font-size: 1.5em;
+        }
+        .time {
+            opacity: 0.5;
+        }
+        &.transition {
+            opacity: 0.5;
+        }
+    }
+}
+.schedule {
+    background-image: url(../img/backgrounds/schedule-bg.jpg);
+    background-color: #222;
+    color: #fff;
+    padding-top: 50px;
+    padding-bottom: 80px;
+}

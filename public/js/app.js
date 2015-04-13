@@ -11,3 +11,15 @@ angular.module('cutc-home', ['ui.bootstrap'])
             });
         }
     }])
+
+.filter('toMomentDate', function () {
+    return function(dateStr) {
+        return moment(dateStr, "M/DD hh:mm");
+    };
+})
+
+.filter('timeOnly', function () {
+    return function (dateStr) {
+        return moment(dateStr, "M/DD hh:mm").format("h:mm a");
+    }
+})
