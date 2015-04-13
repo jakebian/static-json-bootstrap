@@ -42,10 +42,6 @@
             "name" : "University of Toronto"
         },
         {
-            "id" : "mac",
-            "name" : "McMaster"
-        },
-        {
             "id" : "uw",
             "name" : "University of Waterloo"
         }
