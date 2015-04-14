@@ -86,13 +86,13 @@
             "name": "Klever Freire",
             "title": "CEO, DreamQii",
             "bio"   : "Klever's bio is coming soon!"
-        }
-    ],
-    "workshop":[
+        },
         {
             "name" : "Eva Chan",
             "title" : "Technology Innovation Lead, Exact Media",
             "bio"   : "Eva is a design thinker, educator and start-up enthusiast.  As co-founder of Exact Media, fastest growing media & advertising business in North America, she plays various roles within the company focused around growth through building teams, internal process improvements, technology and automation. Her current focus is driving the company to launch into the UK.   She is passionate about community building, education and travelling.  When she is not at Exact Media, she is at her design studio for children in Markham - teaching children how to use their creativity to problem solve and communicate ideas through art.   Eva has a B.Design from OCAD U, Alumni of Nspire Innovation Network, founding member of Luxe Box Canada and founder of Colour With Me Art Studio. "
         }
+    ],
+    "workshop":[
     ]
 }
