@@ -44,6 +44,10 @@
         {
             "id" : "uw",
             "name" : "University of Waterloo"
+        },
+        {
+            "id" : "uwindsor",
+            "name" : "University of Windsor"
         }
     ]
 }
