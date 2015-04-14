@@ -58,6 +58,7 @@
         },
         {
             "name": "Christopher Charlesworth",
+            "id": "C",
             "title": "Co-Founder, HiveWire",
             "bio"   : "Christopher holds an MBA from the Joseph L. Rotman School of Management, The University of Toronto, and an Honours Bachelor of Political Science from The University of Western Ontario. Christopher has worked as a management consultant in Indonesia, Canada, and the United States across several practice areas, including financial services, marketing, and social media. As Co-founder and CEO Christopher works to create value for clients by applying HiveWire’s crowdfunding tools and techniques to their strategic objectives."
         },
@@ -73,6 +74,7 @@
         },
         {
             "name": "Christopher Higgs",
+            "id": "H",
             "title": "VP Mobile & Online Technology, RBC",
             "bio": "Leads Mobile & Online Technology within the Retail Applications Group at RBC. Mobile & Online Technology is a team responsible for the innovation, development, maintenance and support, and the safety and soundness of RBC's mobile and online applications."
         },
