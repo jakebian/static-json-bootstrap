@@ -7,79 +7,44 @@
                 "endTime": "5/02 09:50"
             },
             {
-                "name": "Food",
-                "startTime": "5/02 09:00",
-                "endTime": "5/02 09:50"
-            },
-            {
-                "name": "Transition",
-                "startTime": "5/02 09:50",
-                "endTime": "5/02 10:50"
-            },
-            {
                 "name": "Opening Remarks",
                 "startTime": "5/02 10:00",
                 "endTime": "5/02 10:20"
             },
             {
                 "name": "Keynote 1",
-                "startTime": "5/02 10:20",
+                "startTime": "5/02 10:30",
                 "endTime": "5/02 11:20"
             },
             {
-                "name": "Transition",
-                "startTime": "5/02 11:20",
-                "endTime": "5/02 11:30"
-            },
-            {
-                "name": "Breakout Session 1",
+                "name": "Breakout Session",
                 "startTime": "5/02 11:30",
                 "endTime": "5/02 12:20"
             },
             {
-                "name": "Transition",
-                "startTime": "5/02 12:20",
-                "endTime": "5/02 12:30"
-            },
-            {
-                "name": "Food",
+                "name": "Lunch and Tech Expo",
                 "startTime": "5/02 12:30",
-                "endTime": "5/02 13:20"
+                "endTime": "5/02 14:30"
             },
             {
-                "name": "Transition",
-                "startTime": "5/02 13:20",
-                "endTime": "5/02 13:30"
-            },
-            {
-                "name": "Tech Expo",
-                "startTime": "5/02 13:30",
-                "endTime": "5/02 17:20"
-            },
-            {
-                "name": "Workshop 1",
-                "startTime": "5/02 13:30",
+                "name": "Breakout Session",
+                "startTime": "5/02 14:30",
                 "endTime": "5/02 15:20"
             },
             {
-                "name": "Transition",
-                "startTime": "5/02 15:20",
-                "endTime": "5/02 15:30"
-            },
-            {
-                "name": "Workshop 2",
+                "name": "Breakout Session",
                 "startTime": "5/02 15:30",
-                "endTime": "5/02 17:20"
+                "endTime": "5/02 16:20"
             },
             {
-                "name": "Transition",
-                "startTime": "5/02 17:20",
-                "endTime": "5/02 17:30"
+                "name": "Breakout Session",
+                "startTime": "5/02 16:30",
+                "endTime": "5/02 17:20"
             },
             {
                 "name": "Closing Remarks",
                 "startTime": "5/02 17:30",
-                "endTime": "5/02 17:50"
+                "endTime": "5/02 18:00"
             },
             {
                 "name": "Social",
@@ -94,67 +59,37 @@
                 "endTime": "5/03 09:50"
             },
             {
-                "name": "Transition",
-                "startTime": "5/03 09:50",
-                "endTime": "5/03 10:00"
-            },
-            {
                 "name": "Opening Remarks",
                 "startTime": "5/03 10:00",
                 "endTime": "5/03 10:20"
             },
             {
-                "name": "Keynote 2",
-                "startTime": "5/03 10:20",
+                "name": "Breakout Session",
+                "startTime": "5/03 10:30",
                 "endTime": "5/03 11:20"
             },
             {
-                "name": "Transition",
-                "startTime": "5/03 11:20",
-                "endTime": "5/03 11:30"
-            },
-            {
-                "name": "Breakout Session 2",
+                "name": "Breakout Session",
                 "startTime": "5/03 11:30",
                 "endTime": "5/03 12:20"
             },
             {
-                "name": "Transition",
-                "startTime": "5/03 12:20",
-                "endTime": "5/03 12:30"
-            },
-            {
-                "name": "Food",
+                "name": "Lunch and Networking",
                 "startTime": "5/03 12:30",
-                "endTime": "5/03 13:20"
-            },
-            {
-                "name": "Transition",
-                "startTime": "5/03 13:20",
                 "endTime": "5/03 13:30"
             },
             {
-                "name": "QA Panel",
+                "name": "QA Panel (Evolving Technology)",
                 "startTime": "5/03 13:30",
                 "endTime": "5/03 14:50"
             },
             {
-                "name": "Transition",
-                "startTime": "5/03 14:50",
-                "endTime": "5/03 15:00"
-            },
-            {
-                "name": "Breakout Session 3",
+                "name": "Breakout Session",
                 "startTime": "5/03 15:00",
                 "endTime": "5/03 15:50"
             },
             {
-                "name": "Transition",
-                "startTime": "5/03 15:50",
-                "endTime": "5/03 16:00"
-            },
-            {
-                "name": "Keynote 3",
+                "name": "Keynote",
                 "startTime": "5/03 16:00",
                 "endTime": "5/03 17:00"
             },
