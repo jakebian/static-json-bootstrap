@@ -58,11 +58,6 @@
             "bio"   : "Christopher holds an MBA from the Joseph L. Rotman School of Management, The University of Toronto, and an Honours Bachelor of Political Science from The University of Western Ontario. Christopher has worked as a management consultant in Indonesia, Canada, and the United States across several practice areas, including financial services, marketing, and social media. As Co-founder and CEO Christopher works to create value for clients by applying HiveWire’s crowdfunding tools and techniques to their strategic objectives."
         },
         {
-            "name": "Jay Primeau",
-            "title": "Director of Development, OANDA",
-            "bio": "Jay's first task at OANDA was to put his desk and computer together. His next task was to re-craft the entire trading platform user interface. Since then, Jay has been in the unique position of having grown a grass-roots development team to one praised by Wired Magazine as one of the top ten places to work outside of Silicon Valley. Having gone through the trials and tribulations of implementing development best practices, methodologies, and strategies where none previously existed, Jay has an in-depth understanding of what makes (or breaks) development teams. The development team that Jay leads can deploy 100+ releases a week to a production environment where billions of dollars are traded every day."
-        },
-        {
             "name": "Jason Hall",
             "title": "VP IT Risk, RBC",   
             "bio": "Jason's bio is coming soon!" 
@@ -89,9 +84,9 @@
             "bio"   : "Born at the tender age of 0, Jeff got started in design when he was 15 by making really cringeworthy posters and putting them on Tumblr. Since then, he’s grown up a bit, worked with great companies big and small including Sony, Lytro, and Major League Hacking, and currently designs at 500px, building great products for millions of photographers around the world. He’s a hobbyist photographer, a cellist, and a UofT dropout (sorry mom)."
         },
         {
-            "name" : "Eva Chan",
-            "title" : "Technology Innovation Lead, Exact Media",
-            "bio"   : "Eva is a design thinker, educator and start-up enthusiast.  As co-founder of Exact Media, fastest growing media & advertising business in North America, she plays various roles within the company focused around growth through building teams, internal process improvements, technology and automation. Her current focus is driving the company to launch into the UK.   She is passionate about community building, education and travelling.  When she is not at Exact Media, she is at her design studio for children in Markham - teaching children how to use their creativity to problem solve and communicate ideas through art.   Eva has a B.Design from OCAD U, Alumni of Nspire Innovation Network, founding member of Luxe Box Canada and founder of Colour With Me Art Studio. "
+            "name" : "Huda Idrees",
+            "title" : "Director of Design, Wealthsimple",
+            "bio"   : "Huda is a problem-solver with a passion for efficiency. She has a background in Human Factors Engineering from the University of Toronto and lives to build products people love. Before coming to Wealthsimple, Huda jumpstarted the design team at Wattpad and led the invoicing and accounting products at Wave Accounting."
         }
     ],
     "workshop":[
