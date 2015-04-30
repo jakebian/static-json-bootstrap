@@ -28,34 +28,19 @@
             "bio"   : "Chantal is a UX/UI designer with a passion for thoughtful technology that elicits change and helps us make sense of our world. She works with organizations and start-ups of all sizes, including D2L, Brizi and Eyecheck, and is active in the design community as co-founder of Brew Over Design, a design meet-up in Kitchener-Waterloo." 
         },
         {
-            "name": "Michael Katchen",
-            "title": "CEO, WealthSimple",
-            "bio"   : "Michael Katchen is the Founder and CEO of Wealthsimple, Canada's fastest growing online investment manager. Previously, he led marketing and product at 1000memories, a Y Combinator startup that was acquired in 2012. He has been called an Industry 'Mover' by the Financial Post, a 'Change Agent' by Canadian Business Magazine, and one of the 500 people that will define the next 12 months by Askmen."
-        },
-        {
-            "name": "Jeffrey Tong",
-            "title": "Founder, HearthStats",
-            "bio"   : "Jeffrey Tong is a chemical engineer, developer, magician, and a CEO. Jeffrey studied at the University of Waterloo in their chemical engineering coop program. As Jeffrey worked for various large companies, he realized that working for a large corporation did not align with his personal goals. Thus, he decided to start his own company in order to be able to take the lead, make an actual impact to the company and watch it grow . Being in chemical engineering meant Jeffrey did not learn to code or design in school. Through his own efforts, he learned to program and has created several start ups/sites from scratch.  Jeffrey is now the CEO and founder of OverStats Inc. HearthStats is a product of OverStats which was created out of a necessity to log a player’s statistics and provide analytics in the Blizzard card game, Hearthstone. OverStats' goal is to provide statistics similar to those of organized sports for all future eSports games. HearthStats exploded over it's first year of being launched. It now has over 160,000 users and over 6 million matches recorded while it continues to grow exponentially."
-        },
-        {
-            "name": "Kundan Joshi",
-            "title": "CEO, TheAppLabb",
-            "bio":  "Kundan Joshi is the Founder & CEO of TheAppLabb. TheAppLabb is leading product development firm that is focussed on Strategy, Design & Development of Mobile Apps. With headquarters in Toronto, and global offices in New York, Hong Kong, Melbourne and India, TheAppLabb has created apps for high profile clients like Unilever, Rogers, Dell, AutoShow, Toronto International Film Festival, and several other leading enterprises & exciting start-ups. Kundan is also the Founder & CEO of StartupLabb, an accelerator for tech start-ups, through which he invests in several innovative, high potential start-ups. Kundan is also co-founder of Urbery, an on-demand crowdsourced grocery delivery service. Kundan has a Software Engineering degree from Western University."
-        },
-        {
             "name": "Martin Laforest",
             "title": "Outreach Director, IQC",
-            "bio"   : "Martin Laforest is the Senior Manager, Scientific Outreach at the Institute for Quantum Computing, University of Waterloo. Officially, Martin's role is to bring science out of the lab and into people’s lives. Unofficially, he is the talkative guy who is passionate about quantum information science and technology and likes to share it with young minds. Martin leads IQC’s educational outreach programs including the Undergraduate School on Experimental Quantum Information Processing (USEQIP) and the Quantum Cryptography School for Young Students (QCSYS).  Martin has always been fascinated with trying to understand how the world works. That led him to earn an undergraduate degree in Mathematics and Physics at McGill University and later, a PhD in quantum physics from the University of Waterloo."},
+            "bio"   : "Martin Laforest is the Senior Manager, Scientific Outreach at the Institute for Quantum Computing, University of Waterloo. Officially, Martin's role is to bring science out of the lab and into people’s lives. Unofficially, he is the talkative guy who is passionate about quantum information science and technology and likes to share it with young minds. Martin leads IQC’s educational outreach programs including the Undergraduate School on Experimental Quantum Information Processing (USEQIP) and the Quantum Cryptography School for Young Students (QCSYS).  Martin has always been fascinated with trying to understand how the world works. That led him to earn an undergraduate degree in Mathematics and Physics at McGill University and later, a PhD in quantum physics from the University of Waterloo."
+        },
+        {
+            "name": "Albert Lai",
+            "title": "CEO, Big Viking Games",
+            "bio"   : "Albert is a serial entrepreneur and co-founder/CEO of Big Viking Games, a disruptive social and mobile HTML5 games company. This marks his 6th company to date. While in his teens, Albert sold his first Internet company, the MyDesktop Network in a cash transaction to JupiterMedia (JUPM) for seven-figures. More recently he was the founder/CEO of BubbleShare, a photo-sharing company sold to Kaboose/Disney in 2007. He is a co-founder of Kontagent, an analytics platform tracking 1 out of every 4 dollars spent in social games, where he also served as a member of the executive team as CEO or President in the company’s first four years. Kontagent has raised from the Facebook Fund, Altos Ventures, Maverick Capital and Battery Ventures. In his spare time, Albert blogs at http://simplyalbert.blogspot.com and on Twitter @albertsupdates"
+        },
         {
             "name": "Dr. Carmine Filice",
             "title": "Founder, The Performance Lab",
             "bio"   : "Dr. Carmine Filice D.C, CSCS, takes a sport science approach to its diagnostic. By using the latest sport science technology, including a 3D Motion Capture system and Force Plate technology, The Performance Lab helps anyone from the weekend warrior to the professional athlete to recover and perform at their very best. Dr. Carmine Filice assesses an injury not only from a Sports Therapist's view but also from the eyes of a Strength Coach, allowing a maximized route to recovery. Before opening the doors to The Performance Lab in 2008, Carmine spent time working alongside an extensive amount of high level and well-respected trainers, including The Peak Performance Project- a center in Santa Barbara, USA that focuses purely on training the elite athlete. Carmine has ample experience working with professional athletes such as World Champions, Olympians, and members of the MLB, AVP, NHL, UFC and MLS"
-        },
-        {
-            "name": "Christopher Charlesworth",
-            "id": "C",
-            "title": "Co-Founder, HiveWire",
-            "bio"   : "Christopher holds an MBA from the Joseph L. Rotman School of Management, The University of Toronto, and an Honours Bachelor of Political Science from The University of Western Ontario. Christopher has worked as a management consultant in Indonesia, Canada, and the United States across several practice areas, including financial services, marketing, and social media. As Co-founder and CEO Christopher works to create value for clients by applying HiveWire’s crowdfunding tools and techniques to their strategic objectives."
         },
         {
             "name": "Jason Hall",
@@ -67,6 +52,16 @@
             "id": "H",
             "title": "VP Mobile & Online Technology, RBC",
             "bio": "Leads Mobile & Online Technology within the Retail Applications Group at RBC. Mobile & Online Technology is a team responsible for the innovation, development, maintenance and support, and the safety and soundness of RBC's mobile and online applications."
+        },
+        {
+            "name": "Kundan Joshi",
+            "title": "CEO, TheAppLabb",
+            "bio":  "Kundan Joshi is the Founder & CEO of TheAppLabb. TheAppLabb is leading product development firm that is focussed on Strategy, Design & Development of Mobile Apps. With headquarters in Toronto, and global offices in New York, Hong Kong, Melbourne and India, TheAppLabb has created apps for high profile clients like Unilever, Rogers, Dell, AutoShow, Toronto International Film Festival, and several other leading enterprises & exciting start-ups. Kundan is also the Founder & CEO of StartupLabb, an accelerator for tech start-ups, through which he invests in several innovative, high potential start-ups. Kundan is also co-founder of Urbery, an on-demand crowdsourced grocery delivery service. Kundan has a Software Engineering degree from Western University."
+        },
+        {
+            "name": "Jeffrey Tong",
+            "title": "Founder, HearthStats",
+            "bio"   : "Jeffrey Tong is a chemical engineer, developer, magician, and a CEO. Jeffrey studied at the University of Waterloo in their chemical engineering coop program. As Jeffrey worked for various large companies, he realized that working for a large corporation did not align with his personal goals. Thus, he decided to start his own company in order to be able to take the lead, make an actual impact to the company and watch it grow . Being in chemical engineering meant Jeffrey did not learn to code or design in school. Through his own efforts, he learned to program and has created several start ups/sites from scratch.  Jeffrey is now the CEO and founder of OverStats Inc. HearthStats is a product of OverStats which was created out of a necessity to log a player’s statistics and provide analytics in the Blizzard card game, Hearthstone. OverStats' goal is to provide statistics similar to those of organized sports for all future eSports games. HearthStats exploded over it's first year of being launched. It now has over 160,000 users and over 6 million matches recorded while it continues to grow exponentially."
         },
         {
             "name": "Susie Pan",
@@ -84,9 +79,27 @@
             "bio"   : "Born at the tender age of 0, Jeff got started in design when he was 15 by making really cringeworthy posters and putting them on Tumblr. Since then, he’s grown up a bit, worked with great companies big and small including Sony, Lytro, and Major League Hacking, and currently designs at 500px, building great products for millions of photographers around the world. He’s a hobbyist photographer, a cellist, and a UofT dropout (sorry mom)."
         },
         {
+            "name": "Aashni Shah",
+            "title": "",
+            "bio"   : "Aashni's bio is coming soon!"
+        }
+        
+    ],
+    "panel":[
+        {
             "name" : "Huda Idrees",
             "title" : "Director of Design, Wealthsimple",
             "bio"   : "Huda is a problem-solver with a passion for efficiency. She has a background in Human Factors Engineering from the University of Toronto and lives to build products people love. Before coming to Wealthsimple, Huda jumpstarted the design team at Wattpad and led the invoicing and accounting products at Wave Accounting."
+        },
+        {
+            "name" : "Aleem Dhanji",
+            "title" : "VP Mobile, Chalk.com",
+            "bio"   : "In just one year, Aleem has gone from creating his first iOS app to leading the development of Chalk.com’s entire suite of mobile applications as VP Mobile. With a strong passion for education, Aleem believes that technology will allow teachers to deliver more personalized learning, leading to greater student success. Chalk.com is a productivity suite for K-12 teachers, and helps over 100,000 teachers in over 20,000 schools worldwide with their daily needs."
+        },
+        {
+            "name" : "Alyssa Atkin",
+            "title" : "Content Marketing Specialist, Top Hat",
+            "bio"   : "Alyssa loves story telling. She loves taking a company, discovering it's personality, labelling that personality as a brand, and connecting it with the most targeted and relevant audience. The psychology behind marketing and messaging, and is fascinated by the ability to shape people's thoughts and actions with the right string of words. Alyssa was selected as one of Canada’s Next 36 young entrepreneurs, and has both started and grown startups."
         }
     ],
     "workshop":[
